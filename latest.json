@@ -1,7 +1,7 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "releaseUrl": "https://github.com/Rscript-sudo/personal-business-management-system-downloads/releases/latest",
-  "windowsUrl": "https://github.com/Rscript-sudo/personal-business-management-system-downloads/releases/latest/download/personal-business-management-system-0.1.3-setup-x64.exe",
-  "macosUrl": "https://github.com/Rscript-sudo/personal-business-management-system-downloads/releases/latest/download/personal-business-management-system-0.1.3-arm64.dmg",
-  "notes": "新增版本更新入口：下载后请关闭本程序，再手动运行安装包。"
+  "windowsUrl": "https://github.com/Rscript-sudo/personal-business-management-system-downloads/releases/latest/download/personal-business-management-system-0.1.4-setup-x64.exe",
+  "macosUrl": "https://github.com/Rscript-sudo/personal-business-management-system-downloads/releases/latest/download/personal-business-management-system-0.1.4-arm64.dmg",
+  "notes": "修复安装版打开空白窗口的问题；下载后请关闭本程序，再手动运行安装包。"
 }
